@@ -9,6 +9,8 @@
   </a>
 </p>
 
+--------
+
 #### 👋 Hi there! My name is Yura  
 👨🏽‍💻 NLP Engineer [@gazprom-neft](https://github.com/gazprom-neft)
 
