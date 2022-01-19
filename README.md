@@ -1,19 +1,17 @@
-<p align="center">
-<!--   <a href="https://sc0eur.github.io/sc0eur/cv"> -->
+<!-- <p align="center">
+  <a href="https://sc0eur.github.io/sc0eur/cv">
   <img src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
   <img src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
   <img src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
   <img src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
   <img src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
   <img src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
-<!--   </a> -->
-</p>
-
---------
+  </a>
+</p> -->
 
 
-<img align='left' src="https://cdn.betterttv.net/emote/5afdd149b5f610729e2f6e75/3x"></img>
-<img align='right' src="https://cdn.betterttv.net/emote/5afdd15ab5f610729e2f6e7a/3x"></img>
+<img align='left' src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
+<img align='right' src="https://cdn.betterttv.net/emote/6113fa8476ea4e2b9f76a2d0/3x"></img>
 <h3 align='center'> 👋 Hi there! My name is Yura  </h3>
 <p align="center">
   👨🏽‍💻 NLP Engineer <a href="https://github.com/gazprom-neft">@gazprom-neft</a>
