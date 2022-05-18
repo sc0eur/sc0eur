@@ -14,7 +14,7 @@
 <img align='right' src="https://cdn.betterttv.net/emote/6068d68da407570b72f2a82f/3x"></img>
 <h3 align='center'> 👋 Hi there! My name is Yura  </h3>
 <p align="center">
-  👨🏽‍💻 NLP Engineer <a href="https://github.com/gazprom-neft">@gazprom-neft</a>
+  👨🏽‍💻 NLP Engineer
 </p>
 
 <!-- 
